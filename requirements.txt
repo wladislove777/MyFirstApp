@@ -1,3 +1,2 @@
 dash
-plotly
-pandas
+os
