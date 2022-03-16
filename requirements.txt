@@ -1,4 +1,2 @@
-gunicorn
 dash
-plotly.express
-pandas
+os
